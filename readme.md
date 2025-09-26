@@ -3,6 +3,8 @@
 This repository reproduces and evaluates the core contributions of the CVPR 2024 paper:  
 **"MESA: Matching Everything by Segmenting Anything"** by Zhang & Zhao.
 
+Reproduced by Nakshi Shah , Khushi Shah , Nischay Agrawal , Sahil Sadarangani
+
 ## 📌 Overview
 
 MESA proposes a novel two-stage framework for pixel-level image matching by:
